@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+.HomeBg{
+    background-image: url("../../../public/joanna-kosinska-78uNJt1kPw8-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: 200vw 100vw;
+    margin-top: -8.2vw;
+    margin-left: 5vw ;
+    margin-right: 5vw ;
+}
+
+
+.TransText {
+    background-image: url("../../../public/brooke-lark-M4E7X3z80PQ-unsplash.jpg");
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    display: block;
+    font-size: 15vw;
+    font-family: arial;
+    text-align: center;
+    top: 18vw;
+    position: relative;
+    font-weight: bold;
+    letter-spacing: -8px;
+    background-size: cover;
+    height: 50vw;
+}
+
+.TagLine{
+    font-size: 4vw;
+    text-align: center;
+    position: relative;
+    top: -15vw;
+}

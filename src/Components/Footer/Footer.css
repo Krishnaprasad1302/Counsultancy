@@ -1,0 +1,34 @@
+.Footer{
+    background-image: url("../../../public/vegetables-set-left-black-slate.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover ;
+    height: 40vh;
+
+}
+
+.SocialMedia{
+    display: flex;
+    margin: 0vh 0vh;
+    color: aliceblue;
+}
+
+.SocialMedia>div>span{
+    margin: 1vw;
+    font-size: 2vw;
+    color: aliceblue;
+}
+
+.footerFlex{
+    font-size: 3vw;
+    display: flex;
+    color:white;
+    position: absolute;
+    top: 470vh;
+    left: 10vw;
+    justify-content: space-evenly;
+}
+
+.FooterEmail{
+    padding: 0vw 4vw;
+}

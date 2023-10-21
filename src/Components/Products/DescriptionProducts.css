@@ -1,0 +1,38 @@
+.ImageOfProduct{
+    width: 60vw;
+    height: 60vh;
+    display: flex;
+    position: absolute; 
+    padding: 5vw;
+}
+
+.ImageDiv{
+    background-image: url("../../../public/ProductDetailPics.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    
+}
+
+.ProductTitle{
+    font-size: 4vw;
+    color: #5f0f40;
+    text-decoration: underline;
+    position: absolute;
+    left: 58vw;
+    top: 24vh;
+}
+
+.Heading{
+    font-size: 8vw;
+    text-align: center;
+    color: #0f4c5c;
+}
+
+.Description{
+    width: 40vw;
+    margin-left: 57vw;
+    margin-top: 12vw;
+}

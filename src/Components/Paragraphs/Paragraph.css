@@ -1,0 +1,50 @@
+.bodyText{
+    color: brown;
+    font-size: 2vw;
+    width: 80vw;
+    font-weight: bold;
+    margin: 5vw auto;
+    text-align: center;
+}
+.bodyTexts{
+    color: brown;
+    font-size: 1.5vw;
+    width: 70vw;
+    margin: 5vw auto;
+    text-align: center;
+}
+
+.Featured{
+    display: flex;
+    text-align: center;
+    width: 27vw;
+    margin: 6vw auto;
+    color: gray;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 2vw;
+}
+
+.cardOfPara{
+    width: 98vw;
+}
+
+.Cards{
+    text-align: center;
+    margin-bottom: 10vw;
+    transition: .5s ease-in-out;
+    z-index: 0;
+}
+
+.cards:hover{
+    z-index: 1;
+}
+
+.imgCard{
+    width: 45vw;
+    height: 60vh;
+    margin-left: 4vw;
+}
+
+.feaText{
+    margin: 0vw 3vw;
+}

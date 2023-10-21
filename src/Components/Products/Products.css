@@ -1,0 +1,15 @@
+.productsImage{
+    width: 10vw;
+    margin: 5vw;
+    width: 30vw;
+}
+
+.imagesDiv{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.imagesDiv > div >dt{
+    text-align: center;
+}
